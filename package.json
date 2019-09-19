@@ -1,0 +1,28 @@
+{
+  "name": "ES5-handout",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cddsky/ES5-handout.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cddsky/ES5-handout/issues"
+  },
+  "homepage": "https://github.com/cddsky/ES5-handout#readme",
+  "devDependencies": {
+    "eslint": "^6.4.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-config-vuepress": "0.0.2",
+    "eslint-plugin-import": "^2.18.2",
+    "vuepress": "^1.1.0"
+  },
+  "dependencies": {}
+}
